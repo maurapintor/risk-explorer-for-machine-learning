@@ -1,4 +1,4 @@
-# Risk Explorer for Software Supply Chains
+# Risk Explorer for Software Supply Chains 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.txt)
 [![REUSE status](https://api.reuse.software/badge/github.com/sap/risk-explorer-for-software-supply-chains)](https://api.reuse.software/info/github.com/sap/risk-explorer-for-software-supply-chains)
 
